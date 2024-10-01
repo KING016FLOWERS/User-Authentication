@@ -41,21 +41,6 @@ To run this project locally, follow these instructions:
 - [MongoDB](https://www.mongodb.com/) (local or MongoDB Atlas)
 - [Mailtrap](https://mailtrap.io/) account for email testing
 
----
-
-## 📦 Installation
-
-# Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/auth-system.git
-   cd auth-system
-
-# Install backend dependencies
-cd backend
-npm install
-
-# Install frontend dependencies
 cd ../frontend
 npm install
 

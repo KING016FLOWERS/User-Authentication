@@ -40,6 +40,3 @@ To run this project locally, follow these instructions:
 - [MongoDB](https://www.mongodb.com/) (local or MongoDB Atlas)
 - [Mailtrap](https://mailtrap.io/) account for email testing
 
-cd ../frontend
-npm install
-

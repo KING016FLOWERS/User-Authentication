@@ -10,7 +10,6 @@ This repository contains a complete authentication system built with **Vite Reac
 - ✔️ Protected routes for logged-in users
 - 🏠 Dashboard page for authenticated users
 - 📧 HTML email templates
-- 🚀 Super detailed deployment on Netlify/Vercel and Heroku/Render
 
 ---
 

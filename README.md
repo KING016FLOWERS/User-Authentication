@@ -2,20 +2,6 @@
 
 This repository contains a complete authentication system built with **Vite React.js** for the frontend, **Node.js** and **Express.js** for the backend, **MongoDB** for the database, and **Mailtrap** for email verification. The system includes signup, login, email verification, forgot/reset password functionalities, and JWT-based authentication.
 
-## 📖 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [API Endpoints](#api-endpoints)
-- [Frontend Pages](#frontend-pages)
-- [Deployment](#deployment)
-- [License](#license)
-
----
-
 ## 🎯 Features
 
 - 🔐 JWT-based authentication (Signup, Login, Logout)

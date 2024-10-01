@@ -1,0 +1,75 @@
+# 🔐 Fullstack Authentication System
+
+This repository contains a complete authentication system built with **Vite React.js** for the frontend, **Node.js** and **Express.js** for the backend, **MongoDB** for the database, and **Mailtrap** for email verification. The system includes signup, login, email verification, forgot/reset password functionalities, and JWT-based authentication.
+
+## 📖 Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [API Endpoints](#api-endpoints)
+- [Frontend Pages](#frontend-pages)
+- [Deployment](#deployment)
+- [License](#license)
+
+---
+
+## 🎯 Features
+
+- 🔐 JWT-based authentication (Signup, Login, Logout)
+- 📨 Email verification for account activation (via Mailtrap)
+- 🔄 Password reset functionality
+- ✔️ Protected routes for logged-in users
+- 🏠 Dashboard page for authenticated users
+- 📧 HTML email templates
+- 🚀 Super detailed deployment on Netlify/Vercel and Heroku/Render
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**:
+- [Vite](https://vitejs.dev/) with React.js
+- Axios for HTTP requests
+- React Hook Form for form handling
+- React Router for navigation
+
+**Backend**:
+- Node.js with Express.js
+- MongoDB with Mongoose
+- JWT for authentication
+- Bcrypt for password hashing
+- Nodemailer with Mailtrap for email delivery
+
+---
+
+## 🏁 Getting Started
+
+To run this project locally, follow these instructions:
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16+)
+- [MongoDB](https://www.mongodb.com/) (local or MongoDB Atlas)
+- [Mailtrap](https://mailtrap.io/) account for email testing
+
+---
+
+## 📦 Installation
+
+# Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/auth-system.git
+   cd auth-system
+
+# Install backend dependencies
+cd backend
+npm install
+
+# Install frontend dependencies
+cd ../frontend
+npm install
+

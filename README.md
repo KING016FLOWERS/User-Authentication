@@ -27,15 +27,16 @@ This repository contains a complete authentication system built with **Vite Reac
 - Bcrypt for password hashing
 - Nodemailer with Mailtrap for email delivery
 
----
+## To Run the Code:
 
-## 🏁 Getting Started
+**Frontend**
+```
+cd frontend
+npm run dev
+```
 
-To run this project locally, follow these instructions:
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v16+)
-- [MongoDB](https://www.mongodb.com/) (local or MongoDB Atlas)
-- [Mailtrap](https://mailtrap.io/) account for email testing
+**backend**
+```
+node ./backend/index.js
+```
 

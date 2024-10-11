@@ -9,7 +9,6 @@ This repository contains a complete authentication system built with **Vite Reac
 - 🔄 Password reset functionality
 - ✔️ Protected routes for logged-in users
 - 🏠 Dashboard page for authenticated users
-- 📧 HTML email templates
 
 ---
 

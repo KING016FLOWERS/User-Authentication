@@ -34,6 +34,10 @@ This repository contains a complete authentication system built with **Vite Reac
 cd frontend
 npm run dev
 ```
+**Backend**
+```
+node ./backend/index.js
+```
 
 **backend**
 ```

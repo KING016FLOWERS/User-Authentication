@@ -39,8 +39,3 @@ npm run dev
 node ./backend/index.js
 ```
 
-**backend**
-```
-node ./backend/index.js
-```
-
